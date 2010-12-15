@@ -1,0 +1,5 @@
+; $Id$
+name = Use Google API for Spell Checker
+description = Implements Google spelling library for Spell Checker
+core = 6.x
+dependencies[] = spellchecker

@@ -1,0 +1,5 @@
+; $Id$
+name = Enchant for Spell Checker
+description = Implements Enchant spelling library for Spell Checker
+core = 6.x
+dependencies[] = spellchecker
