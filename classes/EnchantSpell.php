@@ -1,6 +1,5 @@
 <?php
 /**
- * $Id$
  *
  * This class was contributed by Michel Weimerskirch.
  *
