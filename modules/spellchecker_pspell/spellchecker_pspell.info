@@ -1,4 +1,3 @@
-; $Id$
 name = PSpell for Spell Checker
 description = Implements PSpell spelling library for Spell Checker
 core = 6.x

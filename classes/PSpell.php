@@ -1,6 +1,5 @@
 <?php
 /**
- * $Id$
  *
  * @package MCManager.includes
  * @author Moxiecode
