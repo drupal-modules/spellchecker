@@ -1,3 +1,5 @@
 name = Spell Checker
 description = Implements Spellchecker for nodes
 core = 6.x
+dependencies[] = taxonomy
+
